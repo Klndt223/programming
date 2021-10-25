@@ -1,3 +1,6 @@
+// det er ikke hele opgaven som er her... eller?? :) 
+
+
 void setup(){
   
 }
